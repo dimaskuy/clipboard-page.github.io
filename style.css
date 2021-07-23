@@ -15,6 +15,8 @@ body {
   transition: 0.15s;
 }
 
+.btn { outline:none !important; box-shadow:unset; }
+
 .jumbotron {
   background: none;
   margin: auto;
@@ -90,7 +92,7 @@ body {
 .info { margin-bottom: 5.5rem; }
 
 .img-comp_box img, .img-devices_box img,
-.enterprise1, .enterprise2, .enterprise3, .enterprise4 { width: 80vw; }
+.enterprise1, .enterprise2, .enterprise3, .enterprise4 { width: 50rem; }
 
 .img-comp_box {
   margin-right: 4rem;
@@ -138,7 +140,7 @@ body {
 
 
 /* Mobile Style (375px) */
-@media (max-width: 375px) {
+@media (max-width: 577px) {
 
   body {
     font-size: 18px;
