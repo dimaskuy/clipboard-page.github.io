@@ -1,5 +1,7 @@
 # Frontend Mentor - My Clipboard landing page creation!
 
+[https://dimaskuy.github.io/clipboard-page.github.io/]
+
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
