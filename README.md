@@ -1,4 +1,4 @@
-# Frontend Mentor - Clipboard landing page
+# Frontend Mentor - My Clipboard landing page creation!
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
 
