@@ -214,7 +214,9 @@ body {
     width: 22rem;
   } */
 
-  .img-comp_box img, .img-devices_box img,
+  .img-comp_box img { width: 21rem; }
+
+  .img-devices_box img,
   .enterprise1, .enterprise2, .enterprise3, .enterprise4 { width: 22rem; }
 
   .img-devices_box {
